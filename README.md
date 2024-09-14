@@ -48,3 +48,6 @@ I am passionate about turning complex data into actionable insights to drive mea
 - **Sales Dashboard**: Created using **Power BI** to monitor sales performance.
 - **SQL Analysis**: Optimized **SQL** queries for better performance in an ERP system.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
