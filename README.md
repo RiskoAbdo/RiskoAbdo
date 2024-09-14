@@ -20,8 +20,8 @@ I am passionate about turning complex data into actionable insights to drive mea
 
 ### 🌍 Languages
 
-- **English**: ![English Flag](https://cdn-icons-png.flaticon.com/512/197/197374.png) Good Proficiency
-- **Arabic**: ![Arabic Flag](https://cdn-icons-png.flaticon.com/512/197/197551.png) Fluent
+- **English**: Good Proficiency
+- **Arabic**: Fluent
 
 ---
 
