@@ -43,16 +43,6 @@ I am passionate about turning complex data into actionable insights to drive mea
 
 ---
 
-### 📊 GitHub Stats
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiskoAbdo&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiskoAbdo&layout=compact&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 
 - **📊 Sales Dashboard**: Created using **Power BI** to monitor sales performance and trends.
