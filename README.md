@@ -43,10 +43,29 @@ I am passionate about turning complex data into actionable insights to drive mea
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-- **📊 Sales Dashboard**: Created using **Power BI** to monitor sales performance and trends.
-- **💻 SQL Analysis**: Optimized **SQL** queries for enhanced performance in an ERP system.
+1. [🧑‍💼 HR Data Analysis](https://github.com/RiskoAbdo/HR-Analysis)
+   - **Overview**: Analyzed HR data to gain insights into employee retention, performance, and satisfaction. Built dashboards to highlight key trends in employee attrition, satisfaction, and performance across departments.
+   - **Tools**: Power BI, SQL, Excel
+   - **Highlights**:
+     - **Employee Attrition Dashboard**: Visualized factors driving attrition and employee turnover rates.
+     - **Performance Insights**: Evaluated KPIs to identify top performers and areas needing improvement.
+   - **Outcome**: Created actionable insights that helped HR teams focus on retention strategies and improve employee satisfaction.
+
+2. **📊 Sales Dashboard**
+   - **Overview**: Developed a comprehensive sales dashboard using Power BI to track key sales metrics such as total sales, performance by product, and customer demographics.
+   - **Tools**: Power BI, Excel
+   - **Highlights**:
+     - **Sales Performance by Region**: Visualized regional performance to identify key markets and underperforming areas.
+     - **Customer Insights**: Analyzed customer demographics to tailor marketing strategies and sales offers.
+   - **Outcome**: Provided the sales team with a data-driven approach to increase revenue and optimize sales strategies.
+
+   ![Sales Dashboard](https://example.com/sales-dashboard.png) <!-- Replace with an actual image URL -->
+
+---
+
+
 
 
 <div align="center">
